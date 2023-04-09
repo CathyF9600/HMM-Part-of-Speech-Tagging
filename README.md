@@ -6,5 +6,5 @@ One task within this spectrum is Part-Of-Speech (POS) tagging. Every word and pu
 
 Our task for this assignment is to create a hidden Markov model (HMM) for POS tagging.
 
-Creating the initial, transition and observation probability tables in the HMM model by using the text-tag pairs in the training files.
-Predicting POS tags for untagged text by performing inference with the HMM model created in step 1. 
+1. Creating the initial, transition and observation probability tables in the HMM model by using the text-tag pairs in the training files.
+2. Predicting POS tags for untagged text by performing inference with the HMM model created in step 1. 
